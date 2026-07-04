@@ -14,7 +14,12 @@ that later assembles into the capstone.
 Answer keys / runnable reference workspaces live in `GRCEngClub/cgep-labs`
 (cloned separately, read-only).
 
-## Progress
-| Lab | Title | Domain | Status |
-|-----|-------|--------|--------|
-| 2.3 | First Compliant Resource (AWS S3) | D2 — IaC | ✅ Complete |
+## Progress & portfolio
+- Help me document completed projects and learnings.
+- Build a technical portfolio showcasing GRC engineering work.
+- Connect completed projects to consulting service offerings.
+
+### Lab coverage
+| Lab | Title | Domain | Controls enforced | Status |
+|-----|-------|--------|-------------------|--------|
+| 2.3 | First Compliant Resource (AWS S3) | D2 — Infrastructure as Code | SC-28, AC-3, AU-3/AU-6, CM-6 | ✅ Complete
