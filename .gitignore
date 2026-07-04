@@ -42,3 +42,9 @@ terraform.rc
 # Optional: ignore plan files saved before destroying Terraform configuration
 # Uncomment the line below if you want to ignore planout files.
 # planout
+# Saved Terraform plans — scratch input for apply, not a reviewable artifact
+tfplan
+*.tfplan
+
+# Provider lock file — excluded to match the CGE-P lab checklist
+.terraform.lock.hcl
