@@ -17,4 +17,4 @@ Answer keys / runnable reference workspaces live in `GRCEngClub/cgep-labs`
 ## Progress
 | Lab | Title | Domain | Status |
 |-----|-------|--------|--------|
-| 2.3 | First Compliant Resource (AWS S3) | D2 — IaC | Not started |
+| 2.3 | First Compliant Resource (AWS S3) | D2 — IaC | ✅ Complete |
