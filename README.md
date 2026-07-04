@@ -22,4 +22,4 @@ Answer keys / runnable reference workspaces live in `GRCEngClub/cgep-labs`
 ### Lab coverage
 | Lab | Title | Domain | Controls enforced | Status |
 |-----|-------|--------|-------------------|--------|
-| 2.3 | First Compliant Resource (AWS S3) | D2 — Infrastructure as Code | SC-28, AC-3, AU-3/AU-6, CM-6 | ✅ Complete
+| 2.3 | First Compliant Resource (AWS S3) | D2 — Infrastructure as Code | SC-28, AC-3, AU-3/AU-6, CM-6 | ✅&nbsp;Complete |
